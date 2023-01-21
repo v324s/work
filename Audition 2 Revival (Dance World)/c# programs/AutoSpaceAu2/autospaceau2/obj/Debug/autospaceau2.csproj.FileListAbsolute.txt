@@ -1,0 +1,9 @@
+c:\users\vladek\documents\visual studio 2012\Projects\autospaceau2\autospaceau2\bin\Debug\autospaceau2.exe.config
+c:\users\vladek\documents\visual studio 2012\Projects\autospaceau2\autospaceau2\bin\Debug\autospaceau2.exe
+c:\users\vladek\documents\visual studio 2012\Projects\autospaceau2\autospaceau2\bin\Debug\autospaceau2.pdb
+c:\users\vladek\documents\visual studio 2012\Projects\autospaceau2\autospaceau2\obj\Debug\autospaceau2.csprojResolveAssemblyReference.cache
+c:\users\vladek\documents\visual studio 2012\Projects\autospaceau2\autospaceau2\obj\Debug\autospaceau2.Form1.resources
+c:\users\vladek\documents\visual studio 2012\Projects\autospaceau2\autospaceau2\obj\Debug\autospaceau2.Properties.Resources.resources
+c:\users\vladek\documents\visual studio 2012\Projects\autospaceau2\autospaceau2\obj\Debug\autospaceau2.csproj.GenerateResource.Cache
+c:\users\vladek\documents\visual studio 2012\Projects\autospaceau2\autospaceau2\obj\Debug\autospaceau2.exe
+c:\users\vladek\documents\visual studio 2012\Projects\autospaceau2\autospaceau2\obj\Debug\autospaceau2.pdb
