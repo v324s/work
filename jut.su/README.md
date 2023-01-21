@@ -3,7 +3,7 @@
 
 # Использование
 <ol>
-  <li>Скопировать код файла <a href="jut.su/get_achive.js">get_achive.js</a></li>
+  <li>Скопировать код файла <a href="get_achive.js">get_achive.js</a></li>
   <li>Зайти на сайт <a href="https://jut.su">jut.su</a> и войти в личный кабинет</li>
   <li>Открыть любую серию</li>
   <li>Открыть JS консоль и вставить туда скопированный код</li>
