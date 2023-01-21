@@ -1,0 +1,9 @@
+c:\users\vladek\documents\visual studio 2012\Projects\rename motherfucker\rename motherfucker\bin\Debug\rename motherfucker.exe.config
+c:\users\vladek\documents\visual studio 2012\Projects\rename motherfucker\rename motherfucker\bin\Debug\rename motherfucker.exe
+c:\users\vladek\documents\visual studio 2012\Projects\rename motherfucker\rename motherfucker\bin\Debug\rename motherfucker.pdb
+c:\users\vladek\documents\visual studio 2012\Projects\rename motherfucker\rename motherfucker\obj\Debug\rename motherfucker.csprojResolveAssemblyReference.cache
+c:\users\vladek\documents\visual studio 2012\Projects\rename motherfucker\rename motherfucker\obj\Debug\rename_motherfucker.Form1.resources
+c:\users\vladek\documents\visual studio 2012\Projects\rename motherfucker\rename motherfucker\obj\Debug\rename_motherfucker.Properties.Resources.resources
+c:\users\vladek\documents\visual studio 2012\Projects\rename motherfucker\rename motherfucker\obj\Debug\rename motherfucker.csproj.GenerateResource.Cache
+c:\users\vladek\documents\visual studio 2012\Projects\rename motherfucker\rename motherfucker\obj\Debug\rename motherfucker.exe
+c:\users\vladek\documents\visual studio 2012\Projects\rename motherfucker\rename motherfucker\obj\Debug\rename motherfucker.pdb
