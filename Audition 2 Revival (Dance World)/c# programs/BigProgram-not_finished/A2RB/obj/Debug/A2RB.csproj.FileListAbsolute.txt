@@ -1,0 +1,10 @@
+c:\users\vladek\documents\visual studio 2012\Projects\A2RB\A2RB\bin\Debug\A2RB.exe.config
+c:\users\vladek\documents\visual studio 2012\Projects\A2RB\A2RB\bin\Debug\A2RB.exe
+c:\users\vladek\documents\visual studio 2012\Projects\A2RB\A2RB\bin\Debug\A2RB.pdb
+c:\users\vladek\documents\visual studio 2012\Projects\A2RB\A2RB\obj\Debug\A2RB.csprojResolveAssemblyReference.cache
+c:\users\vladek\documents\visual studio 2012\Projects\A2RB\A2RB\obj\Debug\A2RB.Form1.resources
+c:\users\vladek\documents\visual studio 2012\Projects\A2RB\A2RB\obj\Debug\A2RB.Properties.Resources.resources
+c:\users\vladek\documents\visual studio 2012\Projects\A2RB\A2RB\obj\Debug\A2RB.csproj.GenerateResource.Cache
+c:\users\vladek\documents\visual studio 2012\Projects\A2RB\A2RB\obj\Debug\A2RB.exe
+c:\users\vladek\documents\visual studio 2012\Projects\A2RB\A2RB\obj\Debug\A2RB.pdb
+c:\users\vladek\documents\visual studio 2012\Projects\A2RB\A2RB\obj\Debug\A2RB.Form2.resources
