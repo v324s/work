@@ -1,0 +1,6 @@
+c:\users\vladek\documents\visual studio 2012\Projects\macaddr\macaddr\bin\Debug\macaddr.exe.config
+c:\users\vladek\documents\visual studio 2012\Projects\macaddr\macaddr\obj\Debug\macaddr.csprojResolveAssemblyReference.cache
+c:\users\vladek\documents\visual studio 2012\Projects\macaddr\macaddr\bin\Debug\macaddr.exe
+c:\users\vladek\documents\visual studio 2012\Projects\macaddr\macaddr\bin\Debug\macaddr.pdb
+c:\users\vladek\documents\visual studio 2012\Projects\macaddr\macaddr\obj\Debug\macaddr.exe
+c:\users\vladek\documents\visual studio 2012\Projects\macaddr\macaddr\obj\Debug\macaddr.pdb
