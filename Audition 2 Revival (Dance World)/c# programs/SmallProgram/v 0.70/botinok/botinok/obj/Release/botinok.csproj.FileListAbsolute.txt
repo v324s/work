@@ -1,0 +1,9 @@
+C:\Users\Vladek\documents\visual studio 2012\Projects\botinok\botinok\bin\Release\botinok.exe.config
+C:\Users\Vladek\documents\visual studio 2012\Projects\botinok\botinok\bin\Release\botinok.exe
+C:\Users\Vladek\documents\visual studio 2012\Projects\botinok\botinok\bin\Release\botinok.pdb
+C:\Users\Vladek\documents\visual studio 2012\Projects\botinok\botinok\obj\Release\botinok.Form1.resources
+C:\Users\Vladek\documents\visual studio 2012\Projects\botinok\botinok\obj\Release\botinok.Properties.Resources.resources
+C:\Users\Vladek\documents\visual studio 2012\Projects\botinok\botinok\obj\Release\botinok.csproj.GenerateResource.Cache
+C:\Users\Vladek\documents\visual studio 2012\Projects\botinok\botinok\obj\Release\botinok.exe
+C:\Users\Vladek\documents\visual studio 2012\Projects\botinok\botinok\obj\Release\botinok.pdb
+C:\Users\Vladek\documents\visual studio 2012\Projects\botinok\botinok\obj\Release\botinok.csprojResolveAssemblyReference.cache
