@@ -1,0 +1,8 @@
+c:\users\vladek\documents\visual studio 2012\Projects\nbsp\nbsp\bin\Release\nbsp.exe.config
+c:\users\vladek\documents\visual studio 2012\Projects\nbsp\nbsp\bin\Release\nbsp.exe
+c:\users\vladek\documents\visual studio 2012\Projects\nbsp\nbsp\bin\Release\nbsp.pdb
+c:\users\vladek\documents\visual studio 2012\Projects\nbsp\nbsp\obj\Release\nbsp.Form1.resources
+c:\users\vladek\documents\visual studio 2012\Projects\nbsp\nbsp\obj\Release\nbsp.Properties.Resources.resources
+c:\users\vladek\documents\visual studio 2012\Projects\nbsp\nbsp\obj\Release\nbsp.csproj.GenerateResource.Cache
+c:\users\vladek\documents\visual studio 2012\Projects\nbsp\nbsp\obj\Release\nbsp.exe
+c:\users\vladek\documents\visual studio 2012\Projects\nbsp\nbsp\obj\Release\nbsp.pdb
