@@ -1,0 +1,9 @@
+c:\users\vladek\documents\visual studio 2012\Projects\shifr\shifr\bin\Debug\shifr.exe.config
+c:\users\vladek\documents\visual studio 2012\Projects\shifr\shifr\bin\Debug\shifr.exe
+c:\users\vladek\documents\visual studio 2012\Projects\shifr\shifr\bin\Debug\shifr.pdb
+c:\users\vladek\documents\visual studio 2012\Projects\shifr\shifr\obj\Debug\shifr.csprojResolveAssemblyReference.cache
+c:\users\vladek\documents\visual studio 2012\Projects\shifr\shifr\obj\Debug\shifr.Шифратор.resources
+c:\users\vladek\documents\visual studio 2012\Projects\shifr\shifr\obj\Debug\shifr.Properties.Resources.resources
+c:\users\vladek\documents\visual studio 2012\Projects\shifr\shifr\obj\Debug\shifr.csproj.GenerateResource.Cache
+c:\users\vladek\documents\visual studio 2012\Projects\shifr\shifr\obj\Debug\shifr.exe
+c:\users\vladek\documents\visual studio 2012\Projects\shifr\shifr\obj\Debug\shifr.pdb
