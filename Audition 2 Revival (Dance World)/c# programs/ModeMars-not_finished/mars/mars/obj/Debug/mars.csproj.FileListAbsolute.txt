@@ -1,0 +1,9 @@
+c:\users\vladek\documents\visual studio 2012\Projects\mars\mars\bin\Debug\mars.exe.config
+C:\Users\Vladek\documents\visual studio 2012\Projects\mars\mars\bin\Debug\mars.exe
+C:\Users\Vladek\documents\visual studio 2012\Projects\mars\mars\bin\Debug\mars.pdb
+C:\Users\Vladek\documents\visual studio 2012\Projects\mars\mars\obj\Debug\mars.csprojResolveAssemblyReference.cache
+C:\Users\Vladek\documents\visual studio 2012\Projects\mars\mars\obj\Debug\mars.Form1.resources
+C:\Users\Vladek\documents\visual studio 2012\Projects\mars\mars\obj\Debug\mars.Properties.Resources.resources
+C:\Users\Vladek\documents\visual studio 2012\Projects\mars\mars\obj\Debug\mars.csproj.GenerateResource.Cache
+C:\Users\Vladek\documents\visual studio 2012\Projects\mars\mars\obj\Debug\mars.exe
+C:\Users\Vladek\documents\visual studio 2012\Projects\mars\mars\obj\Debug\mars.pdb
