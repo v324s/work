@@ -8,7 +8,7 @@ from telebot import types
 bot = telebot.TeleBot('')
 
 commandAndAnswer={
-    "/start": "👋🤖 \nПППривет.\nЯ - РРРобот\nЯ буду тебя ибац.\nБип-бип-БАП"
+    "/start": "👋🤖 \nПППривет.\nЯ - РРРобот\nБип-бип-БАП"
 }
 
 def logDialog(uid, text, bot):
