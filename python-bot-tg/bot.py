@@ -5,7 +5,7 @@ import os
 import datetime
 from telebot import types
 
-bot = telebot.TeleBot('6229789360:AAHbSblT7DUVVYl4UH8IVqAZpfPL6I9TT_g')
+bot = telebot.TeleBot('')
 
 commandAndAnswer={
     "/start": "👋🤖 \nПППривет.\nЯ - РРРобот\nЯ буду тебя ибац.\nБип-бип-БАП"
